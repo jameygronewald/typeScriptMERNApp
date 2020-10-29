@@ -1,6 +1,6 @@
-const express = require("express");
-const mongoose = require("mongoose");
-const path = require("path");
+import * as express from "express";
+import * as mongoose from "mongoose";
+import * as path from "path";
 
 const app = express();
 
